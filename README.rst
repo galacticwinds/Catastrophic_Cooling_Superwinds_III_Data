@@ -2,8 +2,8 @@
 Catastrophic Cooling in Superwinds III. Supplementary Material
 ==============================================================
 
-.. image:: https://img.shields.io/badge/DOI-10.000/zenodo.000-blue.svg
-    :target: https://doi.org/10.000/zenodo.000
+.. image:: https://img.shields.io/badge/DOI-10.5281/zenodo.0000-blue.svg
+    :target: https://doi.org/10.5281/zenodo.000
     :alt: Zenodo
 
 Catastrophic Cooling in Superwinds. III. Non-equilibrium Photoionization
@@ -40,5 +40,5 @@ Learn More
 ==================  =============================================
 **Repository**      https://github.com/galacticwinds/Catastrophic_Cooling_Superwinds_III_Data
 **GitPage**         https://galacticwinds.github.io/Catastrophic_Cooling_Superwinds_III_Data
-**Archive**         `10.000/zenodo.000 <https://doi.org/10.000/zenodo.000>`_
+**Archive**         `10.5281/zenodo.000 <https://doi.org/10.5281/zenodo.000>`_
 ==================  =============================================
