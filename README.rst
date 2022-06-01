@@ -24,13 +24,13 @@ Citation
 .. code-block:: bibtex
 
    @article{Danehkar2022,
-     author = {{Danehkar}, Ashkbiz and {Oey}, M.~S. and {Gray}, William~J.},
+     author = {{Danehkar}, A. and {Oey}, M.~S. and {Gray}, W.~J.},
      title = {Catastrophic Cooling in Superwinds. III. Non-equilibrium Photoionization},
      journal = {ApJ, submitted},
      volume = {},
      number = {},
      pages = {},
-     year = {2021},
+     year = {2022},
      doi = {}
    }
 
