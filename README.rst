@@ -26,12 +26,12 @@ Citation
    @article{Danehkar2022,
      author = {{Danehkar}, A. and {Oey}, M.~S. and {Gray}, W.~J.},
      title = {Catastrophic Cooling in Superwinds. III. Non-equilibrium Photoionization},
-     journal = {ApJ, submitted},
-     volume = {},
-     number = {},
-     pages = {},
+     journal = {ApJ},
+     volume = {937},
+     number = {2},
+     pages = {68},
      year = {2022},
-     doi = {}
+     doi = {10.3847/1538-4357/ac8cec}
    }
 
 Learn More
