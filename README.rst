@@ -6,7 +6,7 @@ Catastrophic Cooling in Superwinds III. Supplementary Material
     :target: https://doi.org/10.5281/zenodo.6601127
     :alt: Zenodo
 
-Catastrophic Cooling in Superwinds. III. Non-equilibrium Photoionization
+Catastrophic Cooling in Superwinds. III. Nonequilibrium Photoionization
 ========================================================================
 
 Description
@@ -25,7 +25,7 @@ Citation
 
    @article{Danehkar2022,
      author = {{Danehkar}, A. and {Oey}, M.~S. and {Gray}, W.~J.},
-     title = {Catastrophic Cooling in Superwinds. III. Non-equilibrium Photoionization},
+     title = {Catastrophic Cooling in Superwinds. III. Nonequilibrium Photoionization},
      journal = {ApJ},
      volume = {937},
      number = {2},
